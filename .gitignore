@@ -5,7 +5,6 @@ build/
 !**/src/test/**/build/
 
 ### IntelliJ IDEA ###
-.idea/
 *.iws
 *.iml
 *.ipr
@@ -38,3 +37,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
+/.idea/sonarlint
+
