@@ -36,6 +36,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/.idea/
-/.idea/sonarlint
+.idea/
+.idea/sonarlint
 
